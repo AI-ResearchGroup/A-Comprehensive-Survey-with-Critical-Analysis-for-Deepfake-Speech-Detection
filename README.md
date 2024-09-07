@@ -37,3 +37,6 @@
 | PartialSpoof [[37](https://arxiv.org/pdf/2204.05177)](audio) | 2023 | English | 46/61 | 12,483/108,87 | 19 | Clean & Noisy | ASVspoofing 2019 | 0.2-6.4 | EER |
 | LibriSeVoc [[38](https://arxiv.org/pdf/2304.13085)](audio) | 2023 | English | - | 13,201/79,06 | 6 | Clean & Noisy | Librispeech  | - | EER |
 | AV-Deepfake1M [[19](https://arxiv.org/pdf/2311.15308)], [[20](https://deepfakes1m.github.io/)](video) | 2023 | English | 2,068 | 286,721/860,039 | 2 | Clean & Noisy | Vox-Celeb2 [[33](https://arxiv.org/pdf/1806.0562)] | - | Acc & AuC |
+| MLAAD [[39](https://arxiv.org/pdf/2401.09512)](audio) | 2024 | Multi-Language([23](https://inria.hal.science/hal-01880206/)) | - | 76,000 | 54 | Clean & Noisy | M-AILABS [[40](https://github.com/imdatceleste/m-ailabs-dataset)]  | - | Acc. |
+| ASVspoof 2024 [[21](https://www.asvspoof.org/)](audio)| 2024 | English | 964/958 | 188,819/815,262 | 28 | Clean & Noisy | MLS [[41](https://arxiv.org/pdf/2012.03411)] | - | EER |
+| SVDD2024 [[22](https://challenge.singfake.org/)](audio)| 2024 | - | - | - | - |  |  | - | EER |
